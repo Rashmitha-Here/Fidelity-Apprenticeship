@@ -148,4 +148,6 @@ BEGIN
 END;
 $$ LANGUAGE plpgsql;
 
+select insert_customer('CUST1007','NEW CUST', 'NEWCITY',9876543210,'newcust@gmail.com');
+select update_customer_phone('CUST1004',9867543201);
 
