@@ -9,3 +9,5 @@
 <img width="960" alt="Assessment3_3" src="https://github.com/user-attachments/assets/fb7f40c3-ec50-42b3-9f17-96a96a663b5c">
 <img width="960" alt="Assessment3_4" src="https://github.com/user-attachments/assets/6fc4892d-e342-41c6-a520-ab6e8f568494">
 <img width="960" alt="Assessment3_5" src="https://github.com/user-attachments/assets/7354f686-9d6d-4732-8df8-3d3313df4d15">
+<img width="960" alt="SQLAssess1" src="https://github.com/user-attachments/assets/5e61463e-18c8-4838-9a77-1e72e31a0c3d">
+<img width="960" alt="sqlAsse2" src="https://github.com/user-attachments/assets/24567e45-35db-482c-80e6-21c9e4aaa675">
